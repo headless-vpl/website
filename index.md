@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "Headless VPL"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: 'Headless VPL'
+  text: 'VPLを爆速で開発'
+  tagline: 自分だけのVPLをすぐに作ろう
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: ドキュメント
+      link: /docs
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: サンプル
+      link: /example/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🚀
+    title: VPLを爆速で開発
+    details: VPL開発に必要なAPI、アーキテクチャを提供
+  - icon: 🌏
+    title: UI,言語非依存
+    details: Headless、UIや言語は自由に選べる
+  - icon: 🎮
+    title: VPL以外への応用
+    details: VPLに限らず、動画編集ソフトやゲームエンジンなどへの応用も可能
 ---
 
