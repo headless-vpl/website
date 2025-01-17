@@ -6,6 +6,8 @@ hero:
   name: 'Headless VPL'
   text: 'VPLを爆速で開発'
   tagline: 自分だけのVPLをすぐに作ろう
+  image: /images/sigmoid.png
+  imageClass: hero-image
   actions:
     - theme: brand
       text: ドキュメント
@@ -25,4 +27,3 @@ features:
     title: VPL以外への応用
     details: VPLに限らず、動画編集ソフトやゲームエンジンなどへの応用も可能
 ---
-
