@@ -52,4 +52,8 @@ export default defineConfig({
     ],
   },
   base: '/website/',
+  appearance: {
+    // @ts-expect-error not fully supported yet
+    initialValue: 'light',
+  },
 })
