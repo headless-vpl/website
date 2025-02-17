@@ -51,5 +51,5 @@ export default defineConfig({
       },
     ],
   },
-  base: 'headless-vpl/website',
+  base: '/website/',
 })
