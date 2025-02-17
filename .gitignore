@@ -4,3 +4,8 @@ node_modules
 
 # Mac
 .DS_Store
+
+# Vitepress
+.vitepress/cache
+.vitepress/temp
+.vitepress/dist/
